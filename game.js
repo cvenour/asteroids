@@ -1,7 +1,7 @@
 // Canvas Asteroids
 //
 // Copyright (c) 2010 Doug McInnes
-//
+// Some person made a change
 
 KEY_CODES = {
   32: 'space',
