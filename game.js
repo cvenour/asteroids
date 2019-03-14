@@ -1,10 +1,9 @@
 // Canvas Asteroids
 //
 // Copyright (c) 2010 Doug McInnes
-<<<<<<< HEAD
 //
 // Some person made a change
-// Hi Chris!
+// Hi Chris! This is the test-branch version of game.js
 
 KEY_CODES = {
   32: 'space',
