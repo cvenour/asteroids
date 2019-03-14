@@ -1,7 +1,9 @@
 // Canvas Asteroids
 //
 // Copyright (c) 2010 Doug McInnes
+<<<<<<< HEAD
 //
+// Some person made a change
 // Hi Chris!
 
 KEY_CODES = {
